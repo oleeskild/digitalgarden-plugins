@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hello-gardener",
+    "name": "Hello Gardener",
+    "author": "Ole Eskild Steensen",
+    "description": "A tiny test plugin: shows a friendly badge under every note. Try the install flow with it.",
+    "repo": "oleeskild/garden-plugin-hello-gardener"
+  },
+  {
+    "id": "moc-nav",
+    "name": "MOC Navigation",
+    "author": "Ole Eskild Steensen",
+    "description": "Replaces the file tree with a Map of Content grown from your home note's links.",
+    "repo": "oleeskild/garden-plugin-moc-nav"
+  }
+]
