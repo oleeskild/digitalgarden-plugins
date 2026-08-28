@@ -1,5 +1,47 @@
 [
   {
+    "id": "analytics",
+    "name": "Analytics",
+    "author": "Ole Eskild Steensen",
+    "description": "Privacy-friendly analytics: Plausible, Umami, or GoatCounter.",
+    "repo": "oleeskild/garden-plugin-analytics"
+  },
+  {
+    "id": "breadcrumbs",
+    "name": "Breadcrumbs",
+    "author": "Ole Eskild Steensen",
+    "description": "Shows the note's folder path above its title.",
+    "repo": "oleeskild/garden-plugin-breadcrumbs"
+  },
+  {
+    "id": "copy-code-button",
+    "name": "Copy Code Button",
+    "author": "Ole Eskild Steensen",
+    "description": "Adds a copy button to every code block.",
+    "repo": "oleeskild/garden-plugin-copy-code-button"
+  },
+  {
+    "id": "garden-stats",
+    "name": "Garden Stats",
+    "author": "Ole Eskild Steensen",
+    "description": "A sidebar widget with your garden's vital signs: note count, link count, and the most-linked notes.",
+    "repo": "oleeskild/garden-plugin-garden-stats"
+  },
+  {
+    "id": "giscus-comments",
+    "name": "Giscus Comments",
+    "author": "Ole Eskild Steensen",
+    "description": "GitHub-Discussions-backed comments under every note, powered by giscus.app.",
+    "repo": "oleeskild/garden-plugin-giscus-comments"
+  },
+  {
+    "id": "growth-stages",
+    "name": "Growth Stages",
+    "author": "Ole Eskild Steensen",
+    "description": "Shows each note's maturity as a growth stage: seedling, budding, or evergreen. Set it with growth: seedling in a note's frontmatter.",
+    "repo": "oleeskild/garden-plugin-growth-stages"
+  },
+  {
     "id": "hello-gardener",
     "name": "Hello Gardener",
     "author": "Ole Eskild Steensen",
@@ -7,10 +49,59 @@
     "repo": "oleeskild/garden-plugin-hello-gardener"
   },
   {
+    "id": "image-lightbox",
+    "name": "Image Lightbox",
+    "author": "Ole Eskild Steensen",
+    "description": "Click any image in a note to view it full size in an overlay.",
+    "repo": "oleeskild/garden-plugin-image-lightbox"
+  },
+  {
     "id": "moc-nav",
     "name": "MOC Navigation",
     "author": "Ole Eskild Steensen",
     "description": "Replaces the file tree with a Map of Content grown from your home note's links.",
     "repo": "oleeskild/garden-plugin-moc-nav"
+  },
+  {
+    "id": "note-age-banner",
+    "name": "Note Age Banner",
+    "author": "Ole Eskild Steensen",
+    "description": "Warns readers when a note hasn't been tended for a while.",
+    "repo": "oleeskild/garden-plugin-note-age-banner"
+  },
+  {
+    "id": "random-note-button",
+    "name": "Random Note Button",
+    "author": "Ole Eskild Steensen",
+    "description": "A dice button in the navigation that jumps to a random note.",
+    "repo": "oleeskild/garden-plugin-random-note-button"
+  },
+  {
+    "id": "recently-tended",
+    "name": "Recently Tended",
+    "author": "Ole Eskild Steensen",
+    "description": "A list of your most recently updated notes on the home page.",
+    "repo": "oleeskild/garden-plugin-recently-tended"
+  },
+  {
+    "id": "related-notes",
+    "name": "Related Notes",
+    "author": "Ole Eskild Steensen",
+    "description": "Suggests related notes under each note, based on the link graph neighborhood.",
+    "repo": "oleeskild/garden-plugin-related-notes"
+  },
+  {
+    "id": "tag-nav",
+    "name": "Tag Navigation",
+    "author": "Ole Eskild Steensen",
+    "description": "Replaces the file tree with navigation grouped by tags.",
+    "repo": "oleeskild/garden-plugin-tag-nav"
+  },
+  {
+    "id": "webmentions",
+    "name": "Webmentions",
+    "author": "Ole Eskild Steensen",
+    "description": "Shows likes, reposts, and replies from around the web under your notes, via webmention.io.",
+    "repo": "oleeskild/garden-plugin-webmentions"
   }
 ]
