@@ -91,6 +91,13 @@
     "repo": "oleeskild/garden-plugin-related-notes"
   },
   {
+    "id": "rounded-images",
+    "name": "Rounded Images",
+    "author": "Ole Eskild Steensen",
+    "description": "Rounds the corners of images with a configurable radius.",
+    "repo": "oleeskild/garden-plugin-rounded-images"
+  },
+  {
     "id": "tag-nav",
     "name": "Tag Navigation",
     "author": "Ole Eskild Steensen",
