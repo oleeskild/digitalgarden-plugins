@@ -4,7 +4,7 @@ The community plugin registry for [Digital Garden](https://github.com/oleeskild/
 
 ## Submit your plugin
 
-1. Publish your plugin as a public GitHub repo with `garden-plugin.json` at the root and a tagged release. See the [plugin author guide](https://github.com/oleeskild/digitalgarden/blob/main/docs/PLUGINS.md).
+1. Publish your plugin as a public GitHub repo with `garden-plugin.json` at the root and a tagged release. See the [plugin author guide](https://docs.forestry.md/plugins/#writing-your-own-plugin).
 2. Open a pull request adding one entry to `community-plugins.json`:
 
 ```json
