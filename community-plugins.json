@@ -14,6 +14,14 @@
     "repo": "oleeskild/garden-plugin-breadcrumbs"
   },
   {
+    "id": "chartjs",
+    "name": "Charts",
+    "author": "Ole Eskild Steensen",
+    "description": "Renders ```chart blocks from the Obsidian Charts plugin, and raw ```chartjs configs, with Chart.js.",
+    "repo": "oleeskild/garden-plugin-chartjs",
+    "screenshot": "screenshot.png"
+  },
+  {
     "id": "copy-code-button",
     "name": "Copy Code Button",
     "author": "Ole Eskild Steensen",
