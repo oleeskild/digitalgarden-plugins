@@ -4,7 +4,8 @@
     "name": "Analytics",
     "author": "Ole Eskild Steensen",
     "description": "Privacy-friendly analytics: Plausible, Umami, or GoatCounter.",
-    "repo": "oleeskild/garden-plugin-analytics"
+    "repo": "oleeskild/garden-plugin-analytics",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "breadcrumbs",
@@ -43,7 +44,8 @@
     "name": "Giscus Comments",
     "author": "Ole Eskild Steensen",
     "description": "GitHub-Discussions-backed comments under every note, powered by giscus.app.",
-    "repo": "oleeskild/garden-plugin-giscus-comments"
+    "repo": "oleeskild/garden-plugin-giscus-comments",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "growth-stages",
