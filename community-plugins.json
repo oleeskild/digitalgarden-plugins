@@ -57,6 +57,14 @@
     "repo": "oleeskild/garden-plugin-hello-gardener"
   },
   {
+    "id": "home-graph",
+    "name": "Home Graph",
+    "author": "Ole Eskild Steensen",
+    "description": "Turns the home page into the global graph of your garden: every published note as a node, links as edges, click to open.",
+    "repo": "oleeskild/garden-plugin-home-graph",
+    "screenshot": "screenshot.png"
+  },
+  {
     "id": "image-lightbox",
     "name": "Image Lightbox",
     "author": "Ole Eskild Steensen",
