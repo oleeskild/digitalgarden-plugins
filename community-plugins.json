@@ -11,7 +11,8 @@
     "name": "Breadcrumbs",
     "author": "Ole Eskild Steensen",
     "description": "Shows the note's folder path above its title.",
-    "repo": "oleeskild/garden-plugin-breadcrumbs"
+    "repo": "oleeskild/garden-plugin-breadcrumbs",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "chartjs",
@@ -26,14 +27,16 @@
     "name": "Copy Code Button",
     "author": "Ole Eskild Steensen",
     "description": "Adds a copy button to every code block.",
-    "repo": "oleeskild/garden-plugin-copy-code-button"
+    "repo": "oleeskild/garden-plugin-copy-code-button",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "garden-stats",
     "name": "Garden Stats",
     "author": "Ole Eskild Steensen",
     "description": "A sidebar widget with your garden's vital signs: note count, link count, and the most-linked notes.",
-    "repo": "oleeskild/garden-plugin-garden-stats"
+    "repo": "oleeskild/garden-plugin-garden-stats",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "giscus-comments",
@@ -47,14 +50,16 @@
     "name": "Growth Stages",
     "author": "Ole Eskild Steensen",
     "description": "Shows each note's maturity as a growth stage: seedling, budding, or evergreen. Set it with growth: seedling in a note's frontmatter.",
-    "repo": "oleeskild/garden-plugin-growth-stages"
+    "repo": "oleeskild/garden-plugin-growth-stages",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "hello-gardener",
     "name": "Hello Gardener",
     "author": "Ole Eskild Steensen",
     "description": "A tiny test plugin: shows a friendly badge under every note. Try the install flow with it.",
-    "repo": "oleeskild/garden-plugin-hello-gardener"
+    "repo": "oleeskild/garden-plugin-hello-gardener",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "home-graph",
@@ -69,62 +74,71 @@
     "name": "Image Lightbox",
     "author": "Ole Eskild Steensen",
     "description": "Click any image in a note to view it full size in an overlay.",
-    "repo": "oleeskild/garden-plugin-image-lightbox"
+    "repo": "oleeskild/garden-plugin-image-lightbox",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "moc-nav",
     "name": "MOC Navigation",
     "author": "Ole Eskild Steensen",
     "description": "Replaces the file tree with a Map of Content grown from your home note's links.",
-    "repo": "oleeskild/garden-plugin-moc-nav"
+    "repo": "oleeskild/garden-plugin-moc-nav",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "note-age-banner",
     "name": "Note Age Banner",
     "author": "Ole Eskild Steensen",
     "description": "Warns readers when a note hasn't been tended for a while.",
-    "repo": "oleeskild/garden-plugin-note-age-banner"
+    "repo": "oleeskild/garden-plugin-note-age-banner",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "random-note-button",
     "name": "Random Note Button",
     "author": "Ole Eskild Steensen",
     "description": "A dice button in the navigation that jumps to a random note.",
-    "repo": "oleeskild/garden-plugin-random-note-button"
+    "repo": "oleeskild/garden-plugin-random-note-button",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "recently-tended",
     "name": "Recently Tended",
     "author": "Ole Eskild Steensen",
     "description": "A list of your most recently updated notes on the home page.",
-    "repo": "oleeskild/garden-plugin-recently-tended"
+    "repo": "oleeskild/garden-plugin-recently-tended",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "related-notes",
     "name": "Related Notes",
     "author": "Ole Eskild Steensen",
     "description": "Suggests related notes under each note, based on the link graph neighborhood.",
-    "repo": "oleeskild/garden-plugin-related-notes"
+    "repo": "oleeskild/garden-plugin-related-notes",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "rounded-images",
     "name": "Rounded Images",
     "author": "Ole Eskild Steensen",
     "description": "Rounds the corners of images with a configurable radius.",
-    "repo": "oleeskild/garden-plugin-rounded-images"
+    "repo": "oleeskild/garden-plugin-rounded-images",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "tag-nav",
     "name": "Tag Navigation",
     "author": "Ole Eskild Steensen",
     "description": "Replaces the file tree with navigation grouped by tags.",
-    "repo": "oleeskild/garden-plugin-tag-nav"
+    "repo": "oleeskild/garden-plugin-tag-nav",
+    "screenshot": "screenshot.png"
   },
   {
     "id": "webmentions",
     "name": "Webmentions",
     "author": "Ole Eskild Steensen",
     "description": "Shows likes, reposts, and replies from around the web under your notes, via webmention.io.",
-    "repo": "oleeskild/garden-plugin-webmentions"
+    "repo": "oleeskild/garden-plugin-webmentions",
+    "screenshot": "screenshot.png"
   }
 ]
