@@ -142,5 +142,13 @@
     "description": "Shows likes, reposts, and replies from around the web under your notes, via webmention.io.",
     "repo": "oleeskild/garden-plugin-webmentions",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "share-qr",
+    "name": "Share QR",
+    "author": "Paolo Gabriel",
+    "description": "Builds a downloadable site QR at build time and shows it in an accessible dialog; zero-dependency.",
+    "repo": "palol/garden-plugin-share-qr",
+    "screenshot": "screenshot.png"
   }
 ]
