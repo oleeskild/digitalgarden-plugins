@@ -150,5 +150,13 @@
     "description": "Builds a downloadable site QR at build time and shows it in an accessible dialog; zero-dependency.",
     "repo": "palol/garden-plugin-share-qr",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "webmention-endpoint",
+    "name": "Webmention Endpoint",
+    "author": "Ian Henderson",
+    "description": "Receive webmentions on your Digital Garden without editing its template.",
+    "repo": "bodster7/garden-plugin-webmention-endpoint",
+    "screenshot": "screenshot.png"
   }
 ]
