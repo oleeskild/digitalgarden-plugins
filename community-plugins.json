@@ -158,5 +158,13 @@
     "description": "Receive webmentions on your Digital Garden without editing its template.",
     "repo": "bodster7/garden-plugin-webmention-endpoint",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "reading-progress",
+    "name": "Reading Progress & Resume",
+    "author": "Kolten Bendickson",
+    "description": "A theme-aware reading progress bar with reading-time estimates and optional per-note resume prompts.",
+    "repo": "koltensaccount/garden-plugin-reading-progress",
+    "screenshot": "screenshot.png"
   }
 ]
