@@ -158,5 +158,13 @@
     "description": "Receive webmentions on your Digital Garden without editing its template.",
     "repo": "bodster7/garden-plugin-webmention-endpoint",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "clean-print",
+    "name": "Clean Print",
+    "author": "Kolten Bendickson",
+    "description": "Theme-independent printing with study-sheet presets, page numbering and complete folded sections.",
+    "repo": "koltensaccount/garden-plugin-clean-print",
+    "screenshot": "screenshot.png"
   }
 ]
