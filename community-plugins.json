@@ -158,5 +158,13 @@
     "description": "Receive webmentions on your Digital Garden without editing its template.",
     "repo": "bodster7/garden-plugin-webmention-endpoint",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "theme-toggle",
+    "name": "Appearance & Reading",
+    "author": "Kolten Bendickson",
+    "description": "Theme-aware light/dark mode, generated accent colors, text size, line spacing and typeface in one compact menu.",
+    "repo": "koltensaccount/garden-plugin-theme-toggle",
+    "screenshot": "screenshot.png"
   }
 ]
