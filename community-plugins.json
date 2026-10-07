@@ -158,5 +158,13 @@
     "description": "Receive webmentions on your Digital Garden without editing its template.",
     "repo": "bodster7/garden-plugin-webmention-endpoint",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "heading-folding",
+    "name": "Heading Folding",
+    "author": "Kolten Bendickson",
+    "description": "Subtle, accessible heading disclosures with automatic expansion for links and complete printed notes.",
+    "repo": "koltensaccount/garden-plugin-heading-folding",
+    "screenshot": "screenshot.png"
   }
 ]
