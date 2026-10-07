@@ -158,5 +158,13 @@
     "description": "Receive webmentions on your Digital Garden without editing its template.",
     "repo": "bodster7/garden-plugin-webmention-endpoint",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "note-lock",
+    "name": "Note Lock (Casual Privacy)",
+    "author": "Kolten Bendickson",
+    "description": "A client-side password screen for casual privacy with optional navigation and search/feed filtering; not encryption or secure access control.",
+    "repo": "koltensaccount/garden-plugin-note-lock",
+    "screenshot": "screenshot.png"
   }
 ]
