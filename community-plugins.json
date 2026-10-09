@@ -190,5 +190,13 @@
     "description": "Theme-aware light/dark mode, generated accent colors, text size, line spacing and typeface in one compact menu.",
     "repo": "koltensaccount/garden-plugin-theme-toggle",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "clean-print",
+    "name": "Clean Print",
+    "author": "Kolten Bendickson",
+    "description": "Theme-independent printing with study-sheet presets, page numbering and complete folded sections.",
+    "repo": "koltensaccount/garden-plugin-clean-print",
+    "screenshot": "screenshot.png"
   }
 ]
