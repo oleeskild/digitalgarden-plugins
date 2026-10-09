@@ -174,5 +174,13 @@
     "description": "Simple TOC presentation presets, collapsible branches and automatic following of the core active heading.",
     "repo": "koltensaccount/garden-plugin-toc-settings",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "reading-progress",
+    "name": "Reading Progress & Resume",
+    "author": "Kolten Bendickson",
+    "description": "A theme-aware reading progress bar with reading-time estimates and optional per-note resume prompts.",
+    "repo": "koltensaccount/garden-plugin-reading-progress",
+    "screenshot": "screenshot.png"
   }
 ]
