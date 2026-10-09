@@ -158,5 +158,13 @@
     "description": "Receive webmentions on your Digital Garden without editing its template.",
     "repo": "bodster7/garden-plugin-webmention-endpoint",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "resizable-panes",
+    "name": "Resizable Panes & Reading Width",
+    "author": "Kolten Bendickson",
+    "description": "Accessible side-pane resizing, reversible collapse and a live, centered reading-width control.",
+    "repo": "koltensaccount/garden-plugin-resizable-panes",
+    "screenshot": "screenshot.png"
   }
 ]
