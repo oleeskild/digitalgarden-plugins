@@ -206,5 +206,13 @@
     "description": "Subtle, accessible heading disclosures with automatic expansion for links and complete printed notes.",
     "repo": "koltensaccount/garden-plugin-heading-folding",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "note-lock",
+    "name": "Note Lock (Casual Privacy)",
+    "author": "Kolten Bendickson",
+    "description": "A client-side password screen for casual privacy with optional navigation and search/feed filtering; not encryption or secure access control.",
+    "repo": "koltensaccount/garden-plugin-note-lock",
+    "screenshot": "screenshot.png"
   }
 ]
