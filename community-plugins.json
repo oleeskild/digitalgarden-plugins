@@ -182,5 +182,13 @@
     "description": "A theme-aware reading progress bar with reading-time estimates and optional per-note resume prompts.",
     "repo": "koltensaccount/garden-plugin-reading-progress",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "theme-toggle",
+    "name": "Appearance & Reading",
+    "author": "Kolten Bendickson",
+    "description": "Theme-aware light/dark mode, generated accent colors, text size, line spacing and typeface in one compact menu.",
+    "repo": "koltensaccount/garden-plugin-theme-toggle",
+    "screenshot": "screenshot.png"
   }
 ]
