@@ -198,5 +198,13 @@
     "description": "Theme-independent printing with study-sheet presets, page numbering and complete folded sections.",
     "repo": "koltensaccount/garden-plugin-clean-print",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "heading-folding",
+    "name": "Heading Folding",
+    "author": "Kolten Bendickson",
+    "description": "Subtle, accessible heading disclosures with automatic expansion for links and complete printed notes.",
+    "repo": "koltensaccount/garden-plugin-heading-folding",
+    "screenshot": "screenshot.png"
   }
 ]
