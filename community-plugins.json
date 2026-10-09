@@ -214,5 +214,13 @@
     "description": "A client-side password screen for casual privacy with optional navigation and search/feed filtering; not encryption or secure access control.",
     "repo": "koltensaccount/garden-plugin-note-lock",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "light-dark-mode",
+    "name": "Light/Dark Mode",
+    "author": "Ole Eskild Steensen",
+    "description": "Follows the visitor's system color scheme, adds a remembered light/dark toggle, and never flashes the wrong theme on load. Gives the default theme a proper light mode.",
+    "repo": "oleeskild/garden-plugin-light-dark-mode",
+    "screenshot": "screenshot.png"
   }
 ]
