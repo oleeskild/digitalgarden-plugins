@@ -166,5 +166,13 @@
     "description": "Accessible side-pane resizing, reversible collapse and a live, centered reading-width control.",
     "repo": "koltensaccount/garden-plugin-resizable-panes",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "toc-settings",
+    "name": "TOC Settings",
+    "author": "Kolten Bendickson",
+    "description": "Simple TOC presentation presets, collapsible branches and automatic following of the core active heading.",
+    "repo": "koltensaccount/garden-plugin-toc-settings",
+    "screenshot": "screenshot.png"
   }
 ]
