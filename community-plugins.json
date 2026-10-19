@@ -222,5 +222,13 @@
     "description": "Follows the visitor's system color scheme, adds a remembered light/dark toggle, and never flashes the wrong theme on load. Gives the default theme a proper light mode.",
     "repo": "oleeskild/garden-plugin-light-dark-mode",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "sidebar-controls",
+    "name": "Sidebar Controls",
+    "author": "Ole Eskild Steensen",
+    "description": "Buttons to collapse the file tree and the right sidebar, and an option to push the right sidebar to the window edge.",
+    "repo": "oleeskild/garden-plugin-sidebar-controls",
+    "screenshot": "screenshot.png"
   }
 ]
