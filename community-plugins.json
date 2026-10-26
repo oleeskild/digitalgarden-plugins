@@ -238,5 +238,13 @@
     "description": "Choose whether a note's frontmatter tags show at the top, at the bottom, or both.",
     "repo": "oleeskild/garden-plugin-tag-placement",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "banners",
+    "name": "Banners",
+    "author": "Ole Eskild Steensen",
+    "description": "Banner images at the top of notes, from the same frontmatter property your Obsidian banner plugin uses.",
+    "repo": "oleeskild/garden-plugin-banners",
+    "screenshot": "screenshot.png"
   }
 ]
