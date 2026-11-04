@@ -32,6 +32,14 @@
     "screenshot": "screenshot.png"
   },
   {
+    "id": "frontmatter-to-html",
+    "name": "Frontmatter to HTML",
+    "author": "SwitchUpCB",
+    "description": "Add the note's frontmatter to the note's published HTML webpage body.",
+    "repo": "switchupcb/obsidian-digital-garden-frontmatter-to-html",
+    "screenshot": "screenshot.png"
+  },
+  {
     "id": "garden-stats",
     "name": "Garden Stats",
     "author": "Ole Eskild Steensen",
