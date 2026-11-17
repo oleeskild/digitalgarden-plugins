@@ -246,5 +246,13 @@
     "description": "Banner images at the top of notes, from the same frontmatter property your Obsidian banner plugin uses.",
     "repo": "oleeskild/garden-plugin-banners",
     "screenshot": "screenshot.png"
+  },
+  {
+    "id": "callout-studio",
+    "name": "Callout Studio",
+    "author": "Niv Libovitch",
+    "description": "Draws Callout Studio's heading and inline callouts in your garden, and gives block callouts the colors and icons you set up in Obsidian.",
+    "repo": "Callout-Studio/digital-garden",
+    "screenshot": "screenshot.png"
   }
 ]
